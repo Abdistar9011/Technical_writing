@@ -186,4 +186,3 @@ Hidden content here
 | `age`     | number | User's age in years  |
 ```
 
-Remember, the goal is to make your project accessible and easy to understand for new users and contributors. A well-written README can significantly increase adoption and contributions to your project.
